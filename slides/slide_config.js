@@ -19,7 +19,7 @@ var SLIDE_CONFIG = {
   // Author information
   presenters: [{
     name: 'Peter Elst',
-    company: 'Web Solutions Engineer, Creative Innovation - Google',
+    company: 'Web Solutions Engineer, Google',
     gplus: 'http://www.google.com/+peterelst',
     twitter: '@peterelst',
     www: 'http://www.peterelst.com',
